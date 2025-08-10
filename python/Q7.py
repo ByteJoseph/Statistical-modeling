@@ -32,5 +32,5 @@ print(B)
 
 result = A + B
 
-print("\nSum of the matrices:")
+print("\nSum :")
 print(result)
