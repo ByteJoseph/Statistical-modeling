@@ -1,6 +1,6 @@
 import numpy as np
 
-m = int(input("Enter number of rows: "))
+m = int(input("Enter the number of rows: "))
 n = int(input("Enter number of columns: "))
 
 print("Enter elements for Matrix 1:")
